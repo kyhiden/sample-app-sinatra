@@ -1,3 +1,3 @@
 [submodule "public"]
 	path = public
-	url = git:/github.com/kyhiden/sample-sub.git
+	url = git://github.com/kyhiden/sample-sub.git
