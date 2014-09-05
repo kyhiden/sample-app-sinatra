@@ -1,4 +1,4 @@
 require 'sinatra'
 get '/' do
-   "SCM BuildPack demo2 "
+  File.read(File.join('public', 'index.html')) 
 end
